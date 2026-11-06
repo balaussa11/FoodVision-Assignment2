@@ -1,0 +1,8 @@
+{
+  "source": "Computer Vision Project Report (2).pdf, Assignment 1, user-provided",
+  "reported_not_retrained": true,
+  "models": {
+    "Simple CNN": {"accuracy": 0.633, "macro_precision": 0.679, "macro_recall": 0.633, "macro_f1": 0.584},
+    "ResNet-18": {"accuracy": 0.933, "macro_precision": 0.933, "macro_recall": 0.933, "macro_f1": 0.933}
+  }
+}

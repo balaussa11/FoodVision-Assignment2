@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+*.log
+food_dataset/
+food_dataset.zip
+FoodVision_results.zip
+.DS_Store
