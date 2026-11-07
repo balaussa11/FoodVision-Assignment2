@@ -1,7 +1,4 @@
-"""Assignment 2: frozen DINOv2 ViT-S/14, linear probe, ablation, and retrieval.
 
-Run in Colab with internet enabled and preferably an NVIDIA GPU.
-"""
 import argparse
 import csv
 import json
