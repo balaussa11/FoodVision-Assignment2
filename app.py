@@ -1,4 +1,4 @@
-"""Interactive food classifier + nearest-neighbor evidence, Assignment 2."""
+
 from io import BytesIO
 from pathlib import Path
 from time import perf_counter
